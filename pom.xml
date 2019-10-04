@@ -7,7 +7,7 @@
     <version>1.0.0.</version> 
     <packaging>war</packaging>
     <name>spring-boot</name>
-    <description>simple-war-project
+    <description>simple-war-project</description>
 
     <dependencies>
         <dependency>
